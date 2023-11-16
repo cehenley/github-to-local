@@ -7,3 +7,7 @@ Text here.
 Etc.
 
 I'm making changes here to see what it looks like on github
+
+## Methods
+
+We did some research.
