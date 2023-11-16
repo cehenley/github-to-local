@@ -1,0 +1,7 @@
+# Another document
+
+This is a second test document
+
+# Introduction - number 2
+
+I love this tool. 
