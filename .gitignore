@@ -1,3 +1,8 @@
+#ignore output figures
+*.png #ignore any png files in the repository
+figures/ #ignore everything in the figures directory
+
+
 # History files
 .Rhistory
 .Rapp.history
