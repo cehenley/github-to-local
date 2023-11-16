@@ -10,4 +10,4 @@ I'm making changes here to see what it looks like on github
 
 ## Methods
 
-We did some research.
+We did some research. We identified the model for the data. It was a really good one. 
